@@ -1,0 +1,1 @@
+data class Restaurants(var name: String, var ratings: Double, var avgCost: Int)
